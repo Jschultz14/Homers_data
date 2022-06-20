@@ -89,3 +89,4 @@ Write a summary paragraph describing what you observed and how it relates to the
 
 Be sure to comment on both the mean and standard deviation of the sample averages - the CLT makes a statement about what to expect from both.
 
+When observing the graphs and sample sizes, there is a pattern that begins to form that follows with the central limit theorem. 
